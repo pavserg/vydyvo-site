@@ -4,7 +4,7 @@ Movie & TV Tracker support and documentation site.
 
 ## Hosted at
 
-https://support.vydyvo.app
+https://pavserg.github.io/vydyvo-site/
 
 ## Pages
 

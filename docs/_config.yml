@@ -1,7 +1,7 @@
 title: Vydyvo
 description: Movie & TV Tracker
-url: https://support.vydyvo.app
-baseurl: ''
+url: https://pavserg.github.io/vydyvo-site
+baseurl: '/vydyvo-site'
 
 # Jekyll settings
 theme: null
