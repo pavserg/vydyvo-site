@@ -1,0 +1,18 @@
+title: Vydyvo
+description: Movie & TV Tracker
+url: https://support.vydyvo.app
+baseurl: ''
+
+# Jekyll settings
+theme: null
+plugins: []
+markdown: kramdown
+
+# GitHub Pages settings
+github: [metadata]
+
+# Exclude files from GitHub Pages
+exclude:
+  - .git
+  - .gitignore
+  - .DS_Store
