@@ -1,4 +1,4 @@
-# Vydyvo Support Site
+# Okovyd Support Site
 
 Movie & TV Tracker support and documentation site.
 
@@ -27,4 +27,4 @@ Then visit `http://localhost:4000` in your browser.
 
 ## License
 
-&copy; 2026 Vydyvo. All rights reserved.
+&copy; 2026 Okovyd. All rights reserved.
