@@ -13,6 +13,17 @@ https://pavserg.github.io/vydyvo-site/
 - [Privacy Policy - English](docs/privacy-eng.html)
 - [Support](docs/support.html)
 
+## OKOMUSE
+
+- [OKOMUSE home](docs/okomuse/index.html)
+- [OKOMUSE Privacy Policy](docs/okomuse/privacy.html)
+- [OKOMUSE Terms of Use](docs/okomuse/terms.html)
+- [OKOMUSE Support](docs/okomuse/support.html)
+
+Published URLs: `https://pavserg.github.io/vydyvo-site/okomuse/privacy.html` and `.../okomuse/terms.html`.
+
+No placeholders remain in `docs/okomuse/`.
+
 ## Development
 
 This site uses Jekyll and is hosted via GitHub Pages from the `/docs` folder.
